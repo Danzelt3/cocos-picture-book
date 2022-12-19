@@ -1,0 +1,41 @@
+
+p10f.png
+size: 341, 157
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_33
+  rotate: true
+  xy: 2, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+1_34
+  rotate: false
+  xy: 226, 35
+  size: 71, 33
+  orig: 71, 33
+  offset: 0, 0
+  index: -1
+1_35
+  rotate: true
+  xy: 2, 12
+  size: 143, 222
+  orig: 143, 222
+  offset: 0, 0
+  index: -1
+1_36
+  rotate: true
+  xy: 299, 4
+  size: 64, 40
+  orig: 64, 41
+  offset: 0, 1
+  index: -1
+qian2
+  rotate: false
+  xy: 226, 70
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1

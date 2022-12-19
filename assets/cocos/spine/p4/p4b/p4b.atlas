@@ -1,0 +1,41 @@
+
+p4b.png
+size: 258, 295
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_36
+  rotate: false
+  xy: 2, 4
+  size: 131, 56
+  orig: 131, 56
+  offset: 0, 0
+  index: -1
+1_37
+  rotate: false
+  xy: 126, 86
+  size: 130, 207
+  orig: 130, 207
+  offset: 0, 0
+  index: -1
+1_38
+  rotate: false
+  xy: 199, 2
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+1_39
+  rotate: false
+  xy: 135, 30
+  size: 62, 54
+  orig: 62, 54
+  offset: 0, 0
+  index: -1
+zuo zuo shang zhouzi
+  rotate: true
+  xy: 2, 62
+  size: 231, 122
+  orig: 231, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+p6d.png
+size: 392, 392
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_4
+  rotate: false
+  xy: 2, 2
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 2, 14
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 2, 39
+  size: 25, 60
+  orig: 25, 60
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 2, 101
+  size: 133, 289
+  orig: 133, 289
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 29, 40
+  size: 48, 59
+  orig: 48, 65
+  offset: 0, 3
+  index: -1

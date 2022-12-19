@@ -1,0 +1,34 @@
+
+p3i.png
+size: 128, 80
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_84
+  rotate: true
+  xy: 90, 28
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+1_84 zhedang
+  rotate: false
+  xy: 2, 2
+  size: 86, 76
+  orig: 86, 76
+  offset: 0, 0
+  index: -1
+1_85
+  rotate: false
+  xy: 90, 38
+  size: 36, 40
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+1_86
+  rotate: false
+  xy: 105, 23
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1

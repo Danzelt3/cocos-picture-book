@@ -1,0 +1,55 @@
+
+p6c.png
+size: 403, 393
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_18
+  rotate: true
+  xy: 343, 47
+  size: 47, 56
+  orig: 50, 62
+  offset: 3, 5
+  index: -1
+1_19
+  rotate: true
+  xy: 287, 39
+  size: 55, 54
+  orig: 56, 57
+  offset: 1, 0
+  index: -1
+1_20
+  rotate: false
+  xy: 287, 2
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 287, 96
+  size: 114, 295
+  orig: 136, 295
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: false
+  xy: 287, 9
+  size: 24, 28
+  orig: 28, 29
+  offset: 4, 1
+  index: -1
+kaiyan
+  rotate: false
+  xy: 313, 28
+  size: 44, 9
+  orig: 44, 9
+  offset: 0, 0
+  index: -1
+qianjing
+  rotate: true
+  xy: 2, 3
+  size: 388, 283
+  orig: 388, 284
+  offset: 0, 1
+  index: -1

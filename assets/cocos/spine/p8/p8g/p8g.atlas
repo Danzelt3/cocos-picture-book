@@ -1,0 +1,55 @@
+
+p8g.png
+size: 237, 96
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_29
+  rotate: true
+  xy: 192, 30
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+1_30
+  rotate: true
+  xy: 170, 9
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+1_31
+  rotate: false
+  xy: 118, 29
+  size: 72, 65
+  orig: 72, 75
+  offset: 0, 10
+  index: -1
+1_32
+  rotate: false
+  xy: 219, 47
+  size: 16, 47
+  orig: 16, 47
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 118, 3
+  size: 24, 50
+  orig: 25, 50
+  offset: 1, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 192, 47
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1

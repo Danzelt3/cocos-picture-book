@@ -1,0 +1,27 @@
+
+p1a.png
+size: 895, 1009
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_67
+  rotate: true
+  xy: 776, 2
+  size: 1005, 117
+  orig: 1005, 117
+  offset: 0, 0
+  index: -1
+1_68
+  rotate: true
+  xy: 2, 72
+  size: 935, 395
+  orig: 951, 395
+  offset: 16, 0
+  index: -1
+图层 3
+  rotate: true
+  xy: 399, 108
+  size: 899, 375
+  orig: 1282, 375
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+p4e.png
+size: 389, 172
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_50
+  rotate: false
+  xy: 308, 34
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+1_51
+  rotate: false
+  xy: 308, 2
+  size: 48, 30
+  orig: 48, 30
+  offset: 0, 0
+  index: -1
+1_52
+  rotate: false
+  xy: 190, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+1_53
+  rotate: true
+  xy: 359, 40
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+1_55
+  rotate: true
+  xy: 308, 71
+  size: 99, 63
+  orig: 106, 69
+  offset: 7, 5
+  index: -1
+1_56
+  rotate: true
+  xy: 2, 2
+  size: 168, 186
+  orig: 168, 186
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 190, 24
+  size: 116, 146
+  orig: 116, 146
+  offset: 0, 0
+  index: -1

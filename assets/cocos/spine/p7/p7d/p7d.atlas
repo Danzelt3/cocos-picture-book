@@ -1,0 +1,27 @@
+
+p7d.png
+size: 350, 132
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_14
+  rotate: false
+  xy: 255, 2
+  size: 43, 128
+  orig: 43, 128
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: true
+  xy: 2, 3
+  size: 127, 251
+  orig: 127, 251
+  offset: 0, 0
+  index: -1
+1_16
+  rotate: false
+  xy: 300, 36
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1

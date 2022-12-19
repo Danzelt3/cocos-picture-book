@@ -1,0 +1,62 @@
+
+p3c.png
+size: 216, 248
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_49
+  rotate: true
+  xy: 2, 120
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+1_50
+  rotate: true
+  xy: 2, 2
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+1_51
+  rotate: false
+  xy: 144, 112
+  size: 48, 40
+  orig: 50, 40
+  offset: 2, 0
+  index: -1
+1_52
+  rotate: true
+  xy: 103, 118
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+1_53
+  rotate: false
+  xy: 194, 112
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+1_54
+  rotate: true
+  xy: 144, 154
+  size: 92, 68
+  orig: 92, 68
+  offset: 0, 0
+  index: -1
+1_55
+  rotate: false
+  xy: 103, 8
+  size: 107, 102
+  orig: 107, 102
+  offset: 0, 0
+  index: -1
+1_56
+  rotate: false
+  xy: 2, 132
+  size: 140, 114
+  orig: 140, 114
+  offset: 0, 0
+  index: -1

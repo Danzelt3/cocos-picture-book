@@ -1,0 +1,20 @@
+
+p10h.png
+size: 112, 68
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+mupai1
+  rotate: true
+  xy: 2, 2
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+mupai1 zhedang
+  rotate: true
+  xy: 80, 22
+  size: 44, 30
+  orig: 47, 32
+  offset: 1, 1
+  index: -1

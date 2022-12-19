@@ -1,0 +1,48 @@
+
+p2h.png
+size: 356, 141
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_42
+  rotate: false
+  xy: 319, 54
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+1_43
+  rotate: false
+  xy: 319, 65
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+1_44
+  rotate: false
+  xy: 319, 77
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+1_45
+  rotate: true
+  xy: 280, 11
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+1_46
+  rotate: false
+  xy: 280, 89
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+1_47
+  rotate: true
+  xy: 2, 2
+  size: 137, 276
+  orig: 173, 291
+  offset: 36, 0
+  index: -1

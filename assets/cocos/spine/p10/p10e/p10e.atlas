@@ -1,0 +1,48 @@
+
+p10e.png
+size: 456, 196
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_28
+  rotate: true
+  xy: 235, 5
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+1_29
+  rotate: false
+  xy: 235, 21
+  size: 130, 173
+  orig: 130, 173
+  offset: 0, 0
+  index: -1
+1_30
+  rotate: true
+  xy: 367, 2
+  size: 85, 51
+  orig: 85, 51
+  offset: 0, 0
+  index: -1
+1_31
+  rotate: true
+  xy: 420, 11
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+1_32
+  rotate: false
+  xy: 2, 13
+  size: 231, 181
+  orig: 231, 181
+  offset: 0, 0
+  index: -1
+qian1
+  rotate: false
+  xy: 367, 89
+  size: 86, 105
+  orig: 105, 106
+  offset: 19, 1
+  index: -1

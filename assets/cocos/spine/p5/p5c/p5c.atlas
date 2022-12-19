@@ -1,0 +1,55 @@
+
+p5c.png
+size: 373, 102
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_40
+  rotate: true
+  xy: 180, 12
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+1_41
+  rotate: true
+  xy: 265, 5
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+1_42
+  rotate: false
+  xy: 354, 36
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+1_43
+  rotate: true
+  xy: 2, 2
+  size: 98, 176
+  orig: 99, 182
+  offset: 0, 6
+  index: -1
+1_44
+  rotate: true
+  xy: 306, 64
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+1_45
+  rotate: false
+  xy: 265, 28
+  size: 39, 72
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+1_46
+  rotate: true
+  xy: 306, 12
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1

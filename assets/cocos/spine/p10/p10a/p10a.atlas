@@ -1,0 +1,55 @@
+
+p10a.png
+size: 205, 143
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: true
+  xy: 161, 29
+  size: 12, 42
+  orig: 12, 42
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 2, 22
+  size: 111, 119
+  orig: 111, 119
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: true
+  xy: 115, 43
+  size: 98, 80
+  orig: 98, 80
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 115, 9
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 52, 2
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: true
+  xy: 161, 6
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 2, 2
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1

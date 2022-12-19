@@ -1,0 +1,55 @@
+
+p7f.png
+size: 188, 238
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+kuang1
+  rotate: false
+  xy: 2, 76
+  size: 112, 160
+  orig: 112, 160
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: true
+  xy: 90, 16
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: true
+  xy: 116, 95
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 116, 158
+  size: 78, 70
+  orig: 78, 70
+  offset: 0, 0
+  index: -1
+tu1
+  rotate: false
+  xy: 2, 2
+  size: 86, 72
+  orig: 91, 74
+  offset: 5, 0
+  index: -1
+yifu
+  rotate: true
+  xy: 116, 111
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 143, 103
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1

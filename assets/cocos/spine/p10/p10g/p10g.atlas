@@ -1,0 +1,41 @@
+
+p10g.png
+size: 152, 252
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_37
+  rotate: false
+  xy: 25, 8
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+1_38
+  rotate: false
+  xy: 2, 29
+  size: 59, 221
+  orig: 67, 221
+  offset: 0, 0
+  index: -1
+1_39
+  rotate: false
+  xy: 63, 127
+  size: 87, 123
+  orig: 87, 123
+  offset: 0, 0
+  index: -1
+1_40
+  rotate: false
+  xy: 63, 2
+  size: 84, 123
+  orig: 84, 123
+  offset: 0, 0
+  index: -1
+1_41
+  rotate: true
+  xy: 2, 7
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1

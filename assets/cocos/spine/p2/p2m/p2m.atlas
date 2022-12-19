@@ -1,0 +1,13 @@
+
+p2m.png
+size: 88, 82
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_79
+  rotate: false
+  xy: 2, 2
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+p2d.png
+size: 237, 153
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_63
+  rotate: false
+  xy: 188, 28
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+1_64
+  rotate: true
+  xy: 2, 2
+  size: 149, 184
+  orig: 149, 184
+  offset: 0, 0
+  index: -1
+1_65
+  rotate: false
+  xy: 188, 34
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+1_66
+  rotate: false
+  xy: 215, 34
+  size: 19, 58
+  orig: 19, 58
+  offset: 0, 0
+  index: -1
+1_67
+  rotate: true
+  xy: 188, 94
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1

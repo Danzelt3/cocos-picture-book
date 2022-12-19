@@ -1,0 +1,41 @@
+
+p8e.png
+size: 101, 139
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_19
+  rotate: true
+  xy: 72, 57
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: false
+  xy: 2, 19
+  size: 68, 118
+  orig: 71, 118
+  offset: 3, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 72, 70
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: false
+  xy: 72, 105
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+1_23
+  rotate: false
+  xy: 2, 2
+  size: 89, 15
+  orig: 89, 15
+  offset: 0, 0
+  index: -1

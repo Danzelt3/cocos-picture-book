@@ -1,0 +1,27 @@
+
+p6n.png
+size: 143, 57
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chouti kai
+  rotate: false
+  xy: 62, 4
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 123, 35
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 2, 2
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1

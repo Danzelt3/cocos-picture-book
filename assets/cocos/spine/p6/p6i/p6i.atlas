@@ -1,0 +1,27 @@
+
+p6i.png
+size: 216, 143
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+beizi
+  rotate: true
+  xy: 2, 2
+  size: 139, 130
+  orig: 139, 130
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: true
+  xy: 134, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: false
+  xy: 134, 51
+  size: 80, 90
+  orig: 80, 90
+  offset: 0, 0
+  index: -1

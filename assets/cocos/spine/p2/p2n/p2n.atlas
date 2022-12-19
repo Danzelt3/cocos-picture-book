@@ -1,0 +1,13 @@
+
+p2n.png
+size: 37, 76
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_80
+  rotate: false
+  xy: 2, 2
+  size: 33, 72
+  orig: 33, 72
+  offset: 0, 0
+  index: -1

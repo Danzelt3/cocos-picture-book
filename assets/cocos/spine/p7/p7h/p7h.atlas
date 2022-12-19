@@ -1,0 +1,62 @@
+
+p7h.png
+size: 309, 117
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+kuang3
+  rotate: true
+  xy: 2, 2
+  size: 113, 160
+  orig: 113, 160
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 201, 11
+  size: 26, 26
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 289, 9
+  size: 18, 32
+  orig: 20, 33
+  offset: 1, 0
+  index: -1
+shoubi2-2
+  rotate: true
+  xy: 245, 6
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 245, 43
+  size: 72, 62
+  orig: 72, 63
+  offset: 0, 1
+  index: -1
+wanju
+  rotate: true
+  xy: 164, 8
+  size: 29, 35
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+xiongmao1
+  rotate: true
+  xy: 164, 39
+  size: 76, 79
+  orig: 122, 99
+  offset: 14, 5
+  index: -1
+zuiu
+  rotate: false
+  xy: 289, 2
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1

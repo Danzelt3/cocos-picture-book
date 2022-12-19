@@ -1,0 +1,76 @@
+
+p8b.png
+size: 221, 116
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_3
+  rotate: false
+  xy: 196, 37
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 180, 7
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 179, 35
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: true
+  xy: 2, 2
+  size: 112, 142
+  orig: 112, 142
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 196, 47
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+houlun1
+  rotate: true
+  xy: 146, 3
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+houlun2
+  rotate: false
+  xy: 187, 82
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+kaizui
+  rotate: false
+  xy: 187, 74
+  size: 8, 6
+  orig: 9, 6
+  offset: 1, 0
+  index: -1
+qianlun1
+  rotate: true
+  xy: 146, 74
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+qianlun2
+  rotate: false
+  xy: 146, 28
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1

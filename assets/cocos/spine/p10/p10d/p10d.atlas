@@ -1,0 +1,55 @@
+
+p10d.png
+size: 169, 246
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_21
+  rotate: true
+  xy: 130, 82
+  size: 9, 19
+  orig: 9, 19
+  offset: 0, 0
+  index: -1
+1_22
+  rotate: false
+  xy: 130, 116
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+1_23
+  rotate: true
+  xy: 2, 2
+  size: 65, 153
+  orig: 65, 153
+  offset: 0, 0
+  index: -1
+1_24
+  rotate: false
+  xy: 130, 150
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+1_25
+  rotate: false
+  xy: 2, 69
+  size: 126, 175
+  orig: 132, 175
+  offset: 0, 0
+  index: -1
+1_26
+  rotate: true
+  xy: 130, 195
+  size: 49, 37
+  orig: 49, 39
+  offset: 0, 2
+  index: -1
+1_27
+  rotate: false
+  xy: 130, 93
+  size: 17, 21
+  orig: 17, 22
+  offset: 0, 1
+  index: -1

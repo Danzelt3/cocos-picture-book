@@ -1,0 +1,48 @@
+
+p4g.png
+size: 396, 131
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_61
+  rotate: false
+  xy: 348, 49
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+1_62
+  rotate: false
+  xy: 348, 36
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+1_63
+  rotate: false
+  xy: 387, 124
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+1_64
+  rotate: false
+  xy: 287, 12
+  size: 59, 117
+  orig: 62, 118
+  offset: 0, 0
+  index: -1
+1_65
+  rotate: true
+  xy: 2, 2
+  size: 127, 283
+  orig: 172, 283
+  offset: 45, 0
+  index: -1
+1_66
+  rotate: true
+  xy: 348, 63
+  size: 66, 37
+  orig: 69, 49
+  offset: 3, 5
+  index: -1

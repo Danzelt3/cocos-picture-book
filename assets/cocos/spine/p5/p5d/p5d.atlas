@@ -1,0 +1,48 @@
+
+p5d.png
+size: 133, 271
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_47
+  rotate: false
+  xy: 56, 11
+  size: 52, 53
+  orig: 52, 56
+  offset: 0, 3
+  index: -1
+1_48
+  rotate: false
+  xy: 2, 150
+  size: 129, 119
+  orig: 129, 147
+  offset: 0, 28
+  index: -1
+1_49
+  rotate: true
+  xy: 110, 41
+  size: 56, 18
+  orig: 56, 18
+  offset: 0, 0
+  index: -1
+1_50
+  rotate: false
+  xy: 2, 2
+  size: 52, 62
+  orig: 52, 62
+  offset: 0, 0
+  index: -1
+1_51
+  rotate: false
+  xy: 2, 66
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+1_52
+  rotate: false
+  xy: 93, 99
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1

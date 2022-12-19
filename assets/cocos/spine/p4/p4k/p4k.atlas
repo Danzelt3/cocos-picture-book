@@ -1,0 +1,34 @@
+
+p4k.png
+size: 234, 97
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_29
+  rotate: false
+  xy: 160, 5
+  size: 53, 24
+  orig: 53, 25
+  offset: 0, 1
+  index: -1
+1_30
+  rotate: false
+  xy: 160, 69
+  size: 72, 26
+  orig: 72, 26
+  offset: 0, 0
+  index: -1
+1_31
+  rotate: false
+  xy: 2, 2
+  size: 156, 93
+  orig: 156, 93
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 160, 31
+  size: 46, 36
+  orig: 46, 36
+  offset: 0, 0
+  index: -1

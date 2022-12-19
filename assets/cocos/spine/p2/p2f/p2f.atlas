@@ -1,0 +1,41 @@
+
+p2f.png
+size: 292, 139
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_48
+  rotate: false
+  xy: 267, 16
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+1_49
+  rotate: true
+  xy: 2, 2
+  size: 135, 232
+  orig: 135, 232
+  offset: 0, 0
+  index: -1
+1_50
+  rotate: false
+  xy: 236, 23
+  size: 29, 57
+  orig: 29, 57
+  offset: 0, 0
+  index: -1
+1_51
+  rotate: false
+  xy: 267, 25
+  size: 23, 55
+  orig: 23, 55
+  offset: 0, 0
+  index: -1
+1_52
+  rotate: true
+  xy: 236, 82
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+p6h.png
+size: 94, 153
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+zhentou1
+  rotate: true
+  xy: 2, 59
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+zhentou2
+  rotate: false
+  xy: 2, 2
+  size: 90, 55
+  orig: 90, 55
+  offset: 0, 0
+  index: -1

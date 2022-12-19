@@ -1,0 +1,55 @@
+
+p5b.png
+size: 352, 151
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_34
+  rotate: false
+  xy: 327, 125
+  size: 23, 24
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+1_35
+  rotate: true
+  xy: 296, 4
+  size: 39, 51
+  orig: 41, 54
+  offset: 2, 0
+  index: -1
+1_36
+  rotate: true
+  xy: 234, 45
+  size: 104, 91
+  orig: 104, 91
+  offset: 0, 0
+  index: -1
+1_37
+  rotate: true
+  xy: 2, 2
+  size: 147, 230
+  orig: 152, 230
+  offset: 5, 0
+  index: -1
+1_38
+  rotate: false
+  xy: 327, 78
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+1_39
+  rotate: false
+  xy: 234, 2
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: true
+  xy: 327, 87
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+p4f.png
+size: 250, 94
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_67
+  rotate: false
+  xy: 156, 3
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1
+1_68
+  rotate: false
+  xy: 218, 50
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+1_69
+  rotate: true
+  xy: 234, 42
+  size: 50, 14
+  orig: 50, 14
+  offset: 0, 0
+  index: -1
+1_70
+  rotate: false
+  xy: 156, 52
+  size: 33, 40
+  orig: 36, 42
+  offset: 1, 2
+  index: -1
+1_71
+  rotate: true
+  xy: 191, 63
+  size: 29, 41
+  orig: 29, 42
+  offset: 0, 1
+  index: -1
+1_72
+  rotate: true
+  xy: 156, 10
+  size: 40, 33
+  orig: 43, 38
+  offset: 1, 0
+  index: -1
+1_73
+  rotate: false
+  xy: 223, 8
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+1_74
+  rotate: false
+  xy: 191, 8
+  size: 30, 32
+  orig: 31, 32
+  offset: 1, 0
+  index: -1
+1_75
+  rotate: true
+  xy: 2, 2
+  size: 90, 152
+  orig: 109, 166
+  offset: 14, 14
+  index: -1
+1_76
+  rotate: true
+  xy: 191, 42
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1

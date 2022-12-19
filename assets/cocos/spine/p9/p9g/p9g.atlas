@@ -1,0 +1,34 @@
+
+p9g.png
+size: 184, 78
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_26
+  rotate: false
+  xy: 146, 2
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+1_27
+  rotate: true
+  xy: 2, 2
+  size: 74, 142
+  orig: 74, 142
+  offset: 0, 0
+  index: -1
+1_28
+  rotate: false
+  xy: 146, 49
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+1_29
+  rotate: false
+  xy: 146, 17
+  size: 33, 30
+  orig: 33, 31
+  offset: 0, 0
+  index: -1

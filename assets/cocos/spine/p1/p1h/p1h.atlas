@@ -1,0 +1,48 @@
+
+p1h.png
+size: 327, 142
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_42
+  rotate: true
+  xy: 307, 94
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+1_61
+  rotate: true
+  xy: 240, 60
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+1_62
+  rotate: true
+  xy: 240, 18
+  size: 40, 85
+  orig: 40, 85
+  offset: 0, 0
+  index: -1
+1_63
+  rotate: true
+  xy: 307, 126
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+1_64
+  rotate: true
+  xy: 307, 108
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+1_65
+  rotate: true
+  xy: 2, 2
+  size: 138, 236
+  orig: 138, 236
+  offset: 0, 0
+  index: -1

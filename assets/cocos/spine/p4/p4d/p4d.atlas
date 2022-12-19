@@ -1,0 +1,90 @@
+
+p4d.png
+size: 491, 125
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_84
+  rotate: false
+  xy: 199, 36
+  size: 104, 87
+  orig: 104, 87
+  offset: 0, 0
+  index: -1
+1_85
+  rotate: false
+  xy: 2, 9
+  size: 195, 114
+  orig: 195, 114
+  offset: 0, 0
+  index: -1
+1_86
+  rotate: true
+  xy: 412, 22
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+1_87
+  rotate: false
+  xy: 412, 14
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+1_88
+  rotate: true
+  xy: 367, 2
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+1_89
+  rotate: true
+  xy: 412, 30
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+1_90
+  rotate: false
+  xy: 419, 49
+  size: 70, 74
+  orig: 127, 75
+  offset: 52, 0
+  index: -1
+hou shoubi1
+  rotate: false
+  xy: 367, 12
+  size: 43, 26
+  orig: 43, 30
+  offset: 0, 4
+  index: -1
+hou shoubi2
+  rotate: false
+  xy: 419, 8
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+hou tou
+  rotate: false
+  xy: 305, 40
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+hou weiba
+  rotate: false
+  xy: 305, 2
+  size: 60, 36
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+hou weiba zhedang
+  rotate: false
+  xy: 199, 16
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1

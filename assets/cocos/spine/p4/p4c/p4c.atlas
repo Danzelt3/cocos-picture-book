@@ -1,0 +1,55 @@
+
+p4c.png
+size: 436, 149
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_77
+  rotate: false
+  xy: 392, 29
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+1_78
+  rotate: false
+  xy: 179, 18
+  size: 60, 12
+  orig: 60, 12
+  offset: 0, 0
+  index: -1
+1_79
+  rotate: false
+  xy: 179, 2
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+1_80
+  rotate: false
+  xy: 352, 11
+  size: 38, 35
+  orig: 40, 36
+  offset: 2, 1
+  index: -1
+1_81
+  rotate: true
+  xy: 352, 48
+  size: 99, 82
+  orig: 99, 82
+  offset: 0, 0
+  index: -1
+1_82
+  rotate: true
+  xy: 2, 2
+  size: 145, 175
+  orig: 145, 175
+  offset: 0, 0
+  index: -1
+1_83
+  rotate: true
+  xy: 179, 32
+  size: 115, 171
+  orig: 171, 171
+  offset: 31, 0
+  index: -1

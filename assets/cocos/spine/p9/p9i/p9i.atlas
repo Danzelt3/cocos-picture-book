@@ -1,0 +1,62 @@
+
+p9i.png
+size: 362, 188
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+feng
+  rotate: true
+  xy: 2, 9
+  size: 177, 229
+  orig: 177, 229
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 233, 80
+  size: 123, 106
+  orig: 123, 106
+  offset: 0, 0
+  index: -1
+shuye zhedang
+  rotate: true
+  xy: 233, 15
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 339, 23
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 339, 38
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: true
+  xy: 233, 2
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+ye4
+  rotate: true
+  xy: 339, 6
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+ye5
+  rotate: false
+  xy: 339, 58
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

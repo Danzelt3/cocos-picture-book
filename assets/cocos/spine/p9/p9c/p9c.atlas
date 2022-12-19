@@ -1,0 +1,34 @@
+
+p9c.png
+size: 197, 77
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_10
+  rotate: true
+  xy: 156, 6
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 176, 63
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: false
+  xy: 156, 33
+  size: 18, 42
+  orig: 18, 42
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: true
+  xy: 2, 2
+  size: 73, 152
+  orig: 73, 152
+  offset: 0, 0
+  index: -1

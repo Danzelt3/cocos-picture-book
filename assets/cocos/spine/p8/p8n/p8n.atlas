@@ -1,0 +1,13 @@
+
+p8n.png
+size: 98, 74
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+qiche
+  rotate: false
+  xy: 2, 2
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+p5i.png
+size: 77,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_69
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+1_70
+  rotate: false
+  xy: 54, 4
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+1_71
+  rotate: true
+  xy: 54, 24
+  size: 22, 18
+  orig: 22, 22
+  offset: 0, 3
+  index: -1
+1_72
+  rotate: false
+  xy: 2, 7
+  size: 50, 69
+  orig: 53, 78
+  offset: 3, 9
+  index: -1
+1_73
+  rotate: true
+  xy: 54, 48
+  size: 28, 17
+  orig: 28, 20
+  offset: 0, 1
+  index: -1

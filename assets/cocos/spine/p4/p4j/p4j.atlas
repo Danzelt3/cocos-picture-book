@@ -1,0 +1,41 @@
+
+p4j.png
+size: 266, 99
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_26
+  rotate: false
+  xy: 160, 2
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+1_27
+  rotate: true
+  xy: 224, 30
+  size: 67, 40
+  orig: 67, 41
+  offset: 0, 1
+  index: -1
+1_28
+  rotate: false
+  xy: 2, 3
+  size: 156, 94
+  orig: 156, 94
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 160, 37
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: false
+  xy: 214, 10
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

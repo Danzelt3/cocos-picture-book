@@ -1,0 +1,27 @@
+
+p6a.png
+size: 466, 153
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_1
+  rotate: false
+  xy: 380, 54
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 380, 64
+  size: 84, 87
+  orig: 88, 92
+  offset: 4, 5
+  index: -1
+1_3
+  rotate: true
+  xy: 2, 2
+  size: 149, 376
+  orig: 149, 376
+  offset: 0, 0
+  index: -1

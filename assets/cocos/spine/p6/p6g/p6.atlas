@@ -1,0 +1,48 @@
+
+p6.png
+size: 430, 183
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0 拷贝
+  rotate: true
+  xy: 2, 2
+  size: 179, 229
+  orig: 189, 230
+  offset: 1, 0
+  index: -1
+chizi
+  rotate: false
+  xy: 384, 132
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+xiangpi
+  rotate: true
+  xy: 384, 23
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+yaoshi
+  rotate: true
+  xy: 384, 4
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: true
+  xy: 233, 13
+  size: 168, 149
+  orig: 173, 150
+  offset: 1, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 384, 58
+  size: 23, 72
+  orig: 27, 75
+  offset: 2, 2
+  index: -1

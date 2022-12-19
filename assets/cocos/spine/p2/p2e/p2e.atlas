@@ -1,0 +1,41 @@
+
+p2e.png
+size: 299, 97
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_53
+  rotate: false
+  xy: 250, 19
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+1_54
+  rotate: false
+  xy: 164, 9
+  size: 84, 86
+  orig: 84, 86
+  offset: 0, 0
+  index: -1
+1_55
+  rotate: true
+  xy: 2, 2
+  size: 93, 160
+  orig: 93, 160
+  offset: 0, 0
+  index: -1
+1_56
+  rotate: false
+  xy: 276, 37
+  size: 21, 58
+  orig: 21, 61
+  offset: 0, 3
+  index: -1
+1_57
+  rotate: false
+  xy: 250, 38
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+p4h.png
+size: 294, 141
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_57
+  rotate: true
+  xy: 2, 2
+  size: 137, 214
+  orig: 182, 261
+  offset: 45, 0
+  index: -1
+1_58
+  rotate: true
+  xy: 218, 49
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+p6f.png
+size: 94, 93
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shu
+  rotate: false
+  xy: 2, 2
+  size: 90, 89
+  orig: 90, 89
+  offset: 0, 0
+  index: -1

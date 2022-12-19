@@ -1,0 +1,41 @@
+
+p7e.png
+size: 287, 145
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_17
+  rotate: true
+  xy: 251, 122
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 251, 115
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: true
+  xy: 187, 78
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: true
+  xy: 2, 2
+  size: 141, 183
+  orig: 141, 187
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 187, 28
+  size: 98, 48
+  orig: 101, 49
+  offset: 3, 0
+  index: -1

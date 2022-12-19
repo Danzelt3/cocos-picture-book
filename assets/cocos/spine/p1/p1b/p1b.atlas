@@ -1,0 +1,62 @@
+
+p1b.png
+size: 572, 122
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_31bizui
+  rotate: false
+  xy: 559, 109
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+1_41
+  rotate: true
+  xy: 552, 48
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+1_42
+  rotate: true
+  xy: 559, 95
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+1_43
+  rotate: false
+  xy: 356, 14
+  size: 154, 106
+  orig: 154, 106
+  offset: 0, 0
+  index: -1
+1_44
+  rotate: false
+  xy: 512, 4
+  size: 38, 66
+  orig: 39, 66
+  offset: 1, 0
+  index: -1
+1_45
+  rotate: false
+  xy: 2, 2
+  size: 193, 118
+  orig: 193, 118
+  offset: 0, 0
+  index: -1
+1_46
+  rotate: false
+  xy: 512, 72
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+1_47
+  rotate: false
+  xy: 197, 8
+  size: 157, 112
+  orig: 157, 112
+  offset: 0, 0
+  index: -1

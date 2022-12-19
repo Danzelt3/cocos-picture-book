@@ -1,0 +1,41 @@
+
+p8j.png
+size: 171, 90
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+houchelun1
+  rotate: false
+  xy: 141, 63
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+houchelun2
+  rotate: true
+  xy: 107, 22
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+qianchelun1
+  rotate: false
+  xy: 142, 34
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+qianchelun2
+  rotate: false
+  xy: 107, 55
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+zixingche
+  rotate: false
+  xy: 2, 2
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1

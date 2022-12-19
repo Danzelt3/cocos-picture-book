@@ -1,0 +1,27 @@
+
+p3d.png
+size: 387, 182
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_67
+  rotate: true
+  xy: 320, 95
+  size: 85, 65
+  orig: 85, 65
+  offset: 0, 0
+  index: -1
+1_68
+  rotate: true
+  xy: 2, 2
+  size: 178, 316
+  orig: 178, 334
+  offset: 0, 0
+  index: -1
+图层 7
+  rotate: false
+  xy: 320, 37
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1

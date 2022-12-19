@@ -1,0 +1,41 @@
+
+p7b.png
+size: 410, 142
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_3
+  rotate: false
+  xy: 263, 36
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 225, 41
+  size: 99, 123
+  orig: 102, 123
+  offset: 3, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 350, 26
+  size: 58, 114
+  orig: 58, 114
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: true
+  xy: 2, 2
+  size: 138, 221
+  orig: 139, 221
+  offset: 1, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 225, 15
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+p3b.png
+size: 84, 251
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_33
+  rotate: false
+  xy: 2, 163
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+1_34
+  rotate: false
+  xy: 2, 2
+  size: 73, 99
+  orig: 73, 99
+  offset: 0, 0
+  index: -1
+1_35
+  rotate: false
+  xy: 2, 103
+  size: 72, 58
+  orig: 92, 58
+  offset: 0, 0
+  index: -1
+1_36
+  rotate: false
+  xy: 2, 235
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+1_37
+  rotate: false
+  xy: 30, 218
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1

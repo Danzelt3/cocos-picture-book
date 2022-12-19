@@ -1,0 +1,20 @@
+
+p5e.png
+size: 275, 149
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_53
+  rotate: true
+  xy: 244, 91
+  size: 56, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+1_54
+  rotate: true
+  xy: 2, 2
+  size: 145, 240
+  orig: 176, 240
+  offset: 0, 0
+  index: -1

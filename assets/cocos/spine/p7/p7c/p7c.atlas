@@ -1,0 +1,48 @@
+
+p7c.png
+size: 236, 201
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_10
+  rotate: true
+  xy: 83, 4
+  size: 46, 62
+  orig: 46, 66
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: false
+  xy: 227, 193
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: true
+  xy: 2, 52
+  size: 147, 223
+  orig: 154, 227
+  offset: 7, 4
+  index: -1
+1_13
+  rotate: false
+  xy: 194, 2
+  size: 40, 48
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 2, 12
+  size: 38, 79
+  orig: 40, 80
+  offset: 2, 1
+  index: -1
+1_9
+  rotate: true
+  xy: 147, 4
+  size: 46, 45
+  orig: 46, 59
+  offset: 0, 0
+  index: -1

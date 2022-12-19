@@ -1,0 +1,34 @@
+
+p1e.png
+size: 173, 177
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_31
+  rotate: true
+  xy: 129, 166
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+1_31bizui
+  rotate: true
+  xy: 148, 166
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+1_32
+  rotate: false
+  xy: 2, 73
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+1_33
+  rotate: false
+  xy: 2, 2
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+p2g.png
+size: 169, 110
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_29
+  rotate: true
+  xy: 107, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+1_30
+  rotate: false
+  xy: 120, 89
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+1_31
+  rotate: true
+  xy: 39, 3
+  size: 26, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+1_32
+  rotate: true
+  xy: 73, 5
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+1_33
+  rotate: true
+  xy: 2, 31
+  size: 77, 116
+  orig: 77, 116
+  offset: 0, 0
+  index: -1
+1_34
+  rotate: true
+  xy: 120, 20
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+1_35
+  rotate: false
+  xy: 120, 56
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+1_36
+  rotate: true
+  xy: 107, 3
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+图层 6
+  rotate: false
+  xy: 2, 2
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1

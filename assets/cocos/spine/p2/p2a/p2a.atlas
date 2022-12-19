@@ -1,0 +1,48 @@
+
+p2a.png
+size: 189, 142
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_68
+  rotate: true
+  xy: 2, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+1_69
+  rotate: false
+  xy: 2, 11
+  size: 93, 129
+  orig: 93, 138
+  offset: 0, 9
+  index: -1
+1_70
+  rotate: true
+  xy: 129, 11
+  size: 21, 58
+  orig: 21, 61
+  offset: 0, 3
+  index: -1
+1_71
+  rotate: true
+  xy: 129, 34
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+1_72
+  rotate: false
+  xy: 97, 9
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+1_73
+  rotate: false
+  xy: 97, 60
+  size: 84, 80
+  orig: 84, 80
+  offset: 0, 0
+  index: -1

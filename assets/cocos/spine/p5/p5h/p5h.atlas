@@ -1,0 +1,83 @@
+
+p5h.png
+size: 92, 268
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_68
+  rotate: true
+  xy: 2, 2
+  size: 32, 19
+  orig: 33, 20
+  offset: 1, 0
+  index: -1
+1_74
+  rotate: true
+  xy: 2, 2
+  size: 32, 19
+  orig: 33, 20
+  offset: 1, 0
+  index: -1
+1_70
+  rotate: true
+  xy: 56, 36
+  size: 22, 20
+  orig: 23, 20
+  offset: 1, 0
+  index: -1
+1_71
+  rotate: true
+  xy: 73, 84
+  size: 23, 17
+  orig: 24, 24
+  offset: 0, 5
+  index: -1
+1_72
+  rotate: false
+  xy: 2, 36
+  size: 52, 71
+  orig: 55, 80
+  offset: 3, 9
+  index: -1
+1_73
+  rotate: true
+  xy: 68, 4
+  size: 30, 16
+  orig: 30, 22
+  offset: 0, 2
+  index: -1
+1_75
+  rotate: false
+  xy: 56, 60
+  size: 15, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+1_76
+  rotate: true
+  xy: 73, 76
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+1_77
+  rotate: false
+  xy: 2, 109
+  size: 86, 157
+  orig: 113, 157
+  offset: 8, 0
+  index: -1
+1_78
+  rotate: false
+  xy: 23, 3
+  size: 43, 31
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+bizui
+  rotate: true
+  xy: 73, 68
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  "ver": "1.1.3",
+  "uuid": "728dcf54-34f9-4c99-a4ac-51f774485b5f",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "cocos",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}

@@ -1,0 +1,62 @@
+
+p1c.png
+size: 477, 122
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_34
+  rotate: true
+  xy: 304, 34
+  size: 86, 129
+  orig: 86, 129
+  offset: 0, 0
+  index: -1
+1_35
+  rotate: true
+  xy: 435, 42
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+1_35bizui
+  rotate: true
+  xy: 458, 44
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+1_36
+  rotate: false
+  xy: 2, 2
+  size: 180, 118
+  orig: 180, 118
+  offset: 0, 0
+  index: -1
+1_37
+  rotate: true
+  xy: 304, 3
+  size: 29, 79
+  orig: 29, 79
+  offset: 0, 0
+  index: -1
+1_38
+  rotate: true
+  xy: 385, 5
+  size: 27, 82
+  orig: 27, 82
+  offset: 0, 0
+  index: -1
+1_39
+  rotate: false
+  xy: 435, 55
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+1_40
+  rotate: false
+  xy: 184, 2
+  size: 118, 118
+  orig: 136, 118
+  offset: 18, 0
+  index: -1

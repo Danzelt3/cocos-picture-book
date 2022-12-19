@@ -1,0 +1,55 @@
+
+p2c.png
+size: 171, 142
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_58
+  rotate: false
+  xy: 162, 134
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+1_59
+  rotate: false
+  xy: 97, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+1_60
+  rotate: false
+  xy: 2, 2
+  size: 93, 138
+  orig: 93, 138
+  offset: 0, 0
+  index: -1
+1_61
+  rotate: true
+  xy: 97, 34
+  size: 21, 58
+  orig: 21, 61
+  offset: 0, 3
+  index: -1
+1_62
+  rotate: true
+  xy: 97, 57
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+图层 4
+  rotate: false
+  xy: 97, 82
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+图层 5
+  rotate: true
+  xy: 156, 68
+  size: 12, 13
+  orig: 12, 14
+  offset: 0, 0
+  index: -1

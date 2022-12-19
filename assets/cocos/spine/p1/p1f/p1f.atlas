@@ -1,0 +1,55 @@
+
+p1f.png
+size: 453, 179
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_31bizui
+  rotate: true
+  xy: 287, 35
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+1_48
+  rotate: false
+  xy: 300, 38
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+1_49
+  rotate: true
+  xy: 393, 74
+  size: 103, 57
+  orig: 103, 57
+  offset: 0, 0
+  index: -1
+1_50
+  rotate: true
+  xy: 2, 6
+  size: 171, 283
+  orig: 171, 283
+  offset: 0, 0
+  index: -1
+1_51
+  rotate: false
+  xy: 427, 2
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1
+1_52
+  rotate: false
+  xy: 393, 2
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 287, 46
+  size: 104, 131
+  orig: 105, 132
+  offset: 0, 1
+  index: -1

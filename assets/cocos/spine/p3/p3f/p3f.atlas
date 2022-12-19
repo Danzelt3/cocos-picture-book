@@ -1,0 +1,83 @@
+
+p3f.png
+size: 648, 269
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_57
+  rotate: false
+  xy: 304, 2
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+1_58
+  rotate: true
+  xy: 318, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+1_58 -
+  rotate: true
+  xy: 331, 4
+  size: 10, 9
+  orig: 12, 11
+  offset: 1, 1
+  index: -1
+1_59
+  rotate: false
+  xy: 2, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+1_60
+  rotate: true
+  xy: 472, 65
+  size: 202, 130
+  orig: 202, 130
+  offset: 0, 0
+  index: -1
+1_61
+  rotate: true
+  xy: 561, 18
+  size: 45, 85
+  orig: 45, 85
+  offset: 0, 0
+  index: -1
+1_62
+  rotate: true
+  xy: 472, 4
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+1_63
+  rotate: false
+  xy: 604, 173
+  size: 33, 94
+  orig: 33, 94
+  offset: 0, 0
+  index: -1
+1_64
+  rotate: false
+  xy: 604, 77
+  size: 32, 94
+  orig: 32, 94
+  offset: 0, 0
+  index: -1
+1_65
+  rotate: true
+  xy: 304, 16
+  size: 251, 166
+  orig: 251, 166
+  offset: 0, 0
+  index: -1
+1_66
+  rotate: false
+  xy: 2, 11
+  size: 300, 256
+  orig: 300, 256
+  offset: 0, 0
+  index: -1

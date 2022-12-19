@@ -1,0 +1,69 @@
+
+p8a.png
+size: 329, 192
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_0
+  rotate: true
+  xy: 306, 142
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 300, 84
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 2, 2
+  size: 254, 188
+  orig: 254, 188
+  offset: 0, 0
+  index: -1
+chelun1
+  rotate: false
+  xy: 300, 101
+  size: 27, 39
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+chelun2
+  rotate: true
+  xy: 258, 17
+  size: 28, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+fangxianhpan
+  rotate: true
+  xy: 258, 142
+  size: 48, 46
+  orig: 49, 47
+  offset: 1, 1
+  index: -1
+shoubi1
+  rotate: false
+  xy: 306, 151
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 306, 174
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+zhedang
+  rotate: true
+  xy: 258, 47
+  size: 93, 40
+  orig: 93, 40
+  offset: 0, 0
+  index: -1

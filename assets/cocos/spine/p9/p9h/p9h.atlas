@@ -1,0 +1,41 @@
+
+p9h.png
+size: 372, 138
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_30
+  rotate: false
+  xy: 355, 54
+  size: 6, 8
+  orig: 6, 8
+  offset: 0, 0
+  index: -1
+1_31
+  rotate: true
+  xy: 2, 2
+  size: 134, 155
+  orig: 134, 155
+  offset: 0, 0
+  index: -1
+1_32
+  rotate: false
+  xy: 301, 18
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+1_33
+  rotate: false
+  xy: 301, 64
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+1_34
+  rotate: true
+  xy: 159, 21
+  size: 115, 140
+  orig: 115, 140
+  offset: 0, 0
+  index: -1

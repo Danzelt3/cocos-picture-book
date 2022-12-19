@@ -1,0 +1,41 @@
+
+p2i.png
+size: 240, 160
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_37
+  rotate: true
+  xy: 203, 17
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+1_38
+  rotate: false
+  xy: 221, 20
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+1_39
+  rotate: true
+  xy: 2, 2
+  size: 156, 199
+  orig: 156, 199
+  offset: 0, 0
+  index: -1
+1_40
+  rotate: false
+  xy: 203, 98
+  size: 35, 60
+  orig: 36, 60
+  offset: 1, 0
+  index: -1
+1_41
+  rotate: false
+  xy: 203, 27
+  size: 27, 69
+  orig: 27, 69
+  offset: 0, 0
+  index: -1

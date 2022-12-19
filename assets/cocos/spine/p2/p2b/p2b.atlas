@@ -1,0 +1,55 @@
+
+p2b.png
+size: 235, 134
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_74
+  rotate: false
+  xy: 225, 73
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+1_75 拷贝
+  rotate: true
+  xy: 2, 2
+  size: 130, 181
+  orig: 130, 181
+  offset: 0, 0
+  index: -1
+1_76
+  rotate: false
+  xy: 185, 73
+  size: 25, 59
+  orig: 25, 59
+  offset: 0, 0
+  index: -1
+1_77
+  rotate: false
+  xy: 185, 13
+  size: 20, 58
+  orig: 20, 58
+  offset: 0, 0
+  index: -1
+kaizui
+  rotate: false
+  xy: 212, 73
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 212, 83
+  size: 20, 49
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+图层 3
+  rotate: false
+  xy: 207, 32
+  size: 24, 39
+  orig: 25, 40
+  offset: 0, 0
+  index: -1

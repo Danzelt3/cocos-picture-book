@@ -1,0 +1,20 @@
+
+p8i.png
+size: 137, 99
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+chanjiang
+  rotate: true
+  xy: 2, 2
+  size: 33, 76
+  orig: 33, 76
+  offset: 0, 0
+  index: -1
+chuan
+  rotate: false
+  xy: 2, 37
+  size: 133, 60
+  orig: 133, 60
+  offset: 0, 0
+  index: -1

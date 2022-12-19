@@ -1,0 +1,62 @@
+
+p7i.png
+size: 313, 116
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+kuang4
+  rotate: true
+  xy: 2, 2
+  size: 112, 160
+  orig: 112, 160
+  offset: 0, 0
+  index: -1
+shoubi1
+  rotate: false
+  xy: 195, 10
+  size: 28, 27
+  orig: 29, 30
+  offset: 1, 0
+  index: -1
+shoubi2
+  rotate: false
+  xy: 288, 11
+  size: 17, 29
+  orig: 17, 31
+  offset: 0, 2
+  index: -1
+shoubi2-2
+  rotate: false
+  xy: 248, 3
+  size: 38, 37
+  orig: 40, 39
+  offset: 2, 2
+  index: -1
+tou
+  rotate: true
+  xy: 248, 42
+  size: 72, 63
+  orig: 76, 64
+  offset: 2, 0
+  index: -1
+wanju
+  rotate: true
+  xy: 164, 9
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+xiongmao2
+  rotate: true
+  xy: 164, 39
+  size: 75, 82
+  orig: 112, 92
+  offset: 0, 5
+  index: -1
+zui
+  rotate: false
+  xy: 288, 3
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1

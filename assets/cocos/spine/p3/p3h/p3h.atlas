@@ -1,0 +1,48 @@
+
+p3h.png
+size: 196, 105
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+1_79
+  rotate: false
+  xy: 167, 16
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+1_80
+  rotate: false
+  xy: 122, 4
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+1_81
+  rotate: true
+  xy: 2, 2
+  size: 101, 118
+  orig: 101, 118
+  offset: 0, 0
+  index: -1
+1_81 zhedang
+  rotate: false
+  xy: 122, 27
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+1_82
+  rotate: false
+  xy: 177, 57
+  size: 17, 46
+  orig: 17, 46
+  offset: 0, 0
+  index: -1
+1_83
+  rotate: false
+  xy: 177, 11
+  size: 15, 44
+  orig: 16, 45
+  offset: 0, 1
+  index: -1
